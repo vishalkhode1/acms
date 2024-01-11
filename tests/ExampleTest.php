@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace Acms;
 
 use PHPUnit\Framework\TestCase;
 

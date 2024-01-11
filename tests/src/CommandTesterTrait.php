@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace Acms;
 
 use Symfony\Component\Console\Output\BufferedOutput;
 
